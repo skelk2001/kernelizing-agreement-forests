@@ -1,5 +1,6 @@
 These are the files accompanying the paper, "Reflections on kernelizing and computing unrooted agreement forests"
-by Rim van Wersch, Steven Kelk, Simone Linz, and Georgios Stamoulis.
+by Rim van Wersch, Steven Kelk, Simone Linz, and Georgios Stamoulis. (Update 20th August 2021: following the request of a reviewer we have added an .ods version
+of our main experimental spreadsheet, supplementing the .xls version in the main .zip file).
 
 * The two spreadsheets contain the raw, unprocessed experimental results for the two datasets considered in the article.
 
@@ -22,3 +23,5 @@ Kind regards,
 
 Steven Kelk
 11th December 2020 
+
+
